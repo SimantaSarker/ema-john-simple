@@ -10,5 +10,5 @@
   grid-template-columns: repeat(3, 1fr);
 }
 .cart-container {
-  background: rgba(255, 153, 0, 0.3);
+ background: rgba(255, 153, 0, 0.3);
 }
